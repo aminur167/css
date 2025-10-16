@@ -1,0 +1,21 @@
+h1
+{
+    text-align: center;
+    color: green;
+    background-color:aqua;
+    font-size: 25px;
+    display: inline-block;
+}
+span
+{
+    color: blue;
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+
+ul
+{
+    list-style-type: lower-alpha;
+    color: green;
+}

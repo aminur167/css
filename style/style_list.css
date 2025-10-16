@@ -1,0 +1,17 @@
+.a
+{
+    color:aqua;
+    background-color: green;
+    margin: 50px;
+    border: 5px dashed black;
+    outline: 5px double green;
+    outline-offset: 5px;
+}
+
+#a
+{
+    list-style-type:decimal-leading-zero;
+    color:blue;
+    list-style-position: outside;
+}
+

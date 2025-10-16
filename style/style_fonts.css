@@ -1,0 +1,22 @@
+
+.amin {
+  font-family: "Edu NSW ACT Cursive", cursive;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+
+
+h4
+{
+    color: green;
+    background-color: aqua;
+}
+p
+{
+    background-color: cadetblue;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 5vw;
+}
